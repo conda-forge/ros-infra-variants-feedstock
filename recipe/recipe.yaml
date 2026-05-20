@@ -1,5 +1,5 @@
 context:
-  version: "1.0.1"
+  version: "1.0.2"
 
 recipe:
   name: ros-infra-variants
@@ -7,7 +7,7 @@ recipe:
 
 source:
   - url: "https://github.com/ros-infrastructure/infra-variants/archive/refs/tags/${{ version }}.tar.gz"
-    sha256: "4f05aa5104f263eff03750a6cdae8144749d62e78517a8b3c2a69271d19ae18d"
+    sha256: "a10a63af16a7d83c3fabbd089eac8f9b951406cfbcf3e8ced1979cc3c8234a07"
 
 build:
   number: 0
